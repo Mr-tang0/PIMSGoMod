@@ -1,10 +1,9 @@
 /*
  * @Author: tang
  * @Date: 2026-05-23
- * @GitHub: Mr-tang0/CTSystem
  * @Description: 信捷PLC Modbus通信客户端，实现与PLC的Modbus TCP通信
  */
-package services
+package protocol
 
 import (
 	"encoding/binary"
